@@ -139,5 +139,12 @@
     "avatar": "563868c4842f851f90460132d1cd0e4b",
     "bot": false,
     "created_at": "2025-01-25T19:11:54.000Z"
-  }
+  },
+  {
+    "uid": "1332698459232534628",
+    "tag": "BlaZe",
+    "avatar": "92eac2bcefa8a5883a71158a067807ee",
+    "bot": true,
+    "created_at": "2025-01-25T19:11:54.000Z"
+  },
 ]
