@@ -142,9 +142,16 @@
   },
   {
     "uid": "1332698459232534628",
-    "tag": "BlaZe",
+    "tag": "BlaZe#5476",
     "avatar": "92eac2bcefa8a5883a71158a067807ee",
     "bot": true,
+    "created_at": "2025-01-25T19:11:54.000Z"
+  },
+  {
+    "uid": "1248639172734881843",
+    "tag": "Ducki67",
+    "avatar": "472adeec92631e5423b6a714d0b8f639",
+    "bot": false,
     "created_at": "2025-01-25T19:11:54.000Z"
   },
 ]
